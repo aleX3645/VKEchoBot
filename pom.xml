@@ -25,7 +25,7 @@
 
                 <configuration>
                     <processTypes>
-                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* VKServer</web>
+                        <web>java $JAVA_OPTS -cp target/classes VKServer</web>
                     </processTypes>
                 </configuration>
             </plugin>
