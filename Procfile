@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/VKEchoBot.jar
+web: java -jar target/VKEchoBot.jar
