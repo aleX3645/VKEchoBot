@@ -1,1 +1,1 @@
-web: java -jar target/VKEchoBot
+web: java -jar target/classes/VKEchoBot.jar
