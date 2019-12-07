@@ -1,1 +1,1 @@
-worker: sh target/VKEchoBot.jar
+worker: sh target/VKEchoBot
