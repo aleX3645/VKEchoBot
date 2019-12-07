@@ -1,1 +1,1 @@
-worker: sh target/VKEchoBot
+worker: sh target/bin/workerBot
