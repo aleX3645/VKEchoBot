@@ -27,7 +27,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>VKEchoBot</mainClass>
+                            <mainClass>src/main/java/VKServer.java</mainClass>
                             <name>workerBot</name>
                         </program>
                     </programs>
